@@ -1,0 +1,6 @@
+C:\Users\ABRA\Desktop\Kampintro\Matematik\bin\Debug\Matematik.exe.config
+C:\Users\ABRA\Desktop\Kampintro\Matematik\bin\Debug\Matematik.exe
+C:\Users\ABRA\Desktop\Kampintro\Matematik\bin\Debug\Matematik.pdb
+C:\Users\ABRA\Desktop\Kampintro\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\Desktop\Kampintro\Matematik\obj\Debug\Matematik.exe
+C:\Users\ABRA\Desktop\Kampintro\Matematik\obj\Debug\Matematik.pdb

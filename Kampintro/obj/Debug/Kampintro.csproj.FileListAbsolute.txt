@@ -1,0 +1,7 @@
+C:\Users\ABRA\Desktop\Kampintro\Kampintro\bin\Debug\Kampintro.exe.config
+C:\Users\ABRA\Desktop\Kampintro\Kampintro\bin\Debug\Kampintro.exe
+C:\Users\ABRA\Desktop\Kampintro\Kampintro\bin\Debug\Kampintro.pdb
+C:\Users\ABRA\Desktop\Kampintro\Kampintro\obj\Debug\Kampintro.csprojAssemblyReference.cache
+C:\Users\ABRA\Desktop\Kampintro\Kampintro\obj\Debug\Kampintro.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\Desktop\Kampintro\Kampintro\obj\Debug\Kampintro.exe
+C:\Users\ABRA\Desktop\Kampintro\Kampintro\obj\Debug\Kampintro.pdb

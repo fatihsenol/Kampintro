@@ -1,0 +1,7 @@
+C:\Users\ABRA\Desktop\Kampintro\Classİntro\bin\Debug\Classİntro.exe.config
+C:\Users\ABRA\Desktop\Kampintro\Classİntro\bin\Debug\Classİntro.exe
+C:\Users\ABRA\Desktop\Kampintro\Classİntro\bin\Debug\Classİntro.pdb
+C:\Users\ABRA\Desktop\Kampintro\Classİntro\obj\Debug\Classİntro.csprojAssemblyReference.cache
+C:\Users\ABRA\Desktop\Kampintro\Classİntro\obj\Debug\Classİntro.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\Desktop\Kampintro\Classİntro\obj\Debug\Classİntro.exe
+C:\Users\ABRA\Desktop\Kampintro\Classİntro\obj\Debug\Classİntro.pdb
